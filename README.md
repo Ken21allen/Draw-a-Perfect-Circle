@@ -14,8 +14,14 @@ This Script automates the process of drawing a perfect circle on https://neal.fu
 ## Requirements
 
 - Windows Operating System
-- AutoIt (https://www.autoitscript.com/site/autoit/downloads/) installed
+- [AutoIt](https://www.autoitscript.com/site/autoit/downloads/) installed
 
+## Installation
+
+  **Download and Install AutoIt**:
+    - Go to the [AutoIt download page](https://www.autoitscript.com/site/autoit/downloads/) and download the installer
+    - Follow the installation instructions on the AutoIt website
+    
 ## Usage
 
   **Run the Script**:
