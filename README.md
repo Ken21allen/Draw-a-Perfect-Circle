@@ -1,7 +1,9 @@
 # Draw-a-Perfect-Circle
 Automatically draw a perfect circle in https://neal.fun/perfect-circle/
 
-This Script automates the process of drawing a perfect circle on https://neal.fun/perfect-circle/ Inspired by the challenge of achieving a perfect circle manually, this script leverages AutoIt's capabilities to create precise and repeatable circular motions with ease.
+This Script automates the process of drawing a perfect circle on https://neal.fun/perfect-circle/ Inspired by the challenge of achieving a perfect circle manually, this script leverages AutoIt's capabilities to create precise and repeatable circular motions with ease
+
+![Circle Drawing Demo](Draw%20Circle%20Demo.gif)
 
 ## Features
 
@@ -17,7 +19,7 @@ This Script automates the process of drawing a perfect circle on https://neal.fu
 ## Usage
 
   **Run the Script**:
-    - Press `F5` in the AutoIt editor to run the script or compile it to an executable and run it.
+    - Press `F5` in the AutoIt editor to run the script or compile it to an executable and run it
 
   **Drawing a Circle**:
     - Open https://neal.fun/perfect-circle/
